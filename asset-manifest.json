@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rozetka-react/static/css/main.17a17490.css",
+    "main.js": "/rozetka-react/static/js/main.58687abc.js",
+    "static/media/rozetka.png": "/rozetka-react/static/media/rozetka.a5e27f8b0732ac96d19b.png",
+    "index.html": "/rozetka-react/index.html",
+    "main.17a17490.css.map": "/rozetka-react/static/css/main.17a17490.css.map",
+    "main.58687abc.js.map": "/rozetka-react/static/js/main.58687abc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17a17490.css",
+    "static/js/main.58687abc.js"
+  ]
+}
